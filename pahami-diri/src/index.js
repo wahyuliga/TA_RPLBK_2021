@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import SelfLove from './self-love.jpg';
+
+const web_name = "PahamiDiri"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App title={web_name} image={SelfLove}/>
   </React.StrictMode>,
   document.getElementById('root')
 );

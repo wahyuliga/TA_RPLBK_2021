@@ -6,7 +6,7 @@
         "image": "https://hantu.bo.satupersen.net/content/images/2021/05/Satu-Persen-Artikel--Cover-Image--9-.png",
         "author": "Agita Ayu Tiara",
         "date": "21 May 2021",
-        "content": "Hai Perseners! Apa kabar? Semoga lo selalu dalam keadaan baik ya. Perseners, pernah ngga sih berada di tengah-tengah perasaan aneh di mana lo mulai meragukan kemampuan sendiri? Prosesnya biasanya kayak gini: Pertama, lo merasa hidup lo biasa-biasa aja. Kemudian lo mulai merasa cemas yang ngga karuan ketika melihat teman-teman lo mulai menggapai impiannya. Akhirnya lo akan berpikir “Kok gue merasa ngga punya kemampuan apa-apa ya?”"
+        "source": "https://satupersen.net/blog/quarter-life-crisis-menurut-ahli"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "image": "https://lh6.googleusercontent.com/k3wJxwnRGVaJWF209NHpdxgSlfIABTZZJvc9EklpHYvXsKUhhsYfYFDa7HU0S2NVaQ0mXb4Rq8pL7loXswMPztURhMpE_YSh0otat6CpdLqzTA5bfslRTr4HGDNC7JH3ueusmI_j",
         "author": "Chastin Marla Devi",
         "date": "12 May 2021",
-        "content": "Halo, Perseners! Apa kabar? Hope you’re happy today! Kenalin gue Chastin, sebagai Associate Writer di Satu Persen. Dan… Selama gue hidup, gue dijuluki sebagai si ekstrovert. Tadinya, gue ngerasa fine aja, toh itu penilaian orang lain terhadap diri gue. Tapi semenjak gue baca lebih lanjut tentang kepribadian yang dimiliki seseorang, gue ngerasa kalo gue lebih condong ke introvert."
+        "source": "https://satupersen.net/blog/perbedaan-introvert-dan-ekstrovert"
       },
       {
         "id": 3,
@@ -22,7 +22,79 @@
         "image": "https://lh6.googleusercontent.com/QUTqQu_huxw1rYmC2QzYrE18pm8azHXaYJWFKEBCe6M0ng7tWU6LA-LfLzTI-UZRc_R_OP9UxDgnhefvm_aFou2PSXYM7OiLk_rQNs_pFMZy_RtTgKwSw13FjZmjPtQgewv9do_a",
         "author": "Hana Nuralifiah",
         "date": "8 Jan 2021",
-        "content": "Halo, Perseners! How’s life? Kenalin, nama gue Hana. Gue di sini menulis sebagai associate writer dari Satu Persen. Dalam kesempatan kali ini, gue mau bahas mengenai self-acceptance dan apa hubungannya dengan kekurangan diri. Tapi, sebelumnya gue mau tanya dulu nih sama lo."
+        "source": "https://satupersen.net/blog/menerima-kekurangan-diri-self-acceptance"
+      },
+      {
+        "id": 4,
+        "title": "Menjadi Manusia Seutuhnya dengan Mengelola Emosi Negatif",
+        "image": "https://images.squarespace-cdn.com/content/v1/600bbfebf983552f0a54b390/1628420997107-8UXG3T5NOSMB67A6NXFC/unsplash-image-yw1y-alKGrg.jpg",
+        "author": "Kartika Dewi",
+        "date": "8 April 2021",
+        "source": "https://pijarpsikologi.org/blog/menjadi-manusia-seutuhnya-dengan-mengelola-emosi-negatif"
+      },
+      {
+        "id": 5,
+        "title": "Menjadi Manusia Seutuhnya dengan Mengelola Emosi Negatif",
+        "image": "https://images.squarespace-cdn.com/content/v1/600bbfebf983552f0a54b390/1628420997107-8UXG3T5NOSMB67A6NXFC/unsplash-image-yw1y-alKGrg.jpg",
+        "author": "Kartika Dewi",
+        "date": "8 April 2021",
+        "source": "https://pijarpsikologi.org/blog/menjadi-manusia-seutuhnya-dengan-mengelola-emosi-negatif"
+      },
+      {
+        "id": 6,
+        "title": "Gagasan Jung dan Adler Tentang Berdamai dengan Diri Sendiri",
+        "image": "https://images.squarespace-cdn.com/content/v1/600bbfebf983552f0a54b390/1614315126086-E7JKE0XLT487MDTDICAW/image-asset.jpeg",
+        "author": "H. S. Billy",
+        "date": "13 Maret 2021",
+        "source": "https://pijarpsikologi.org/blog/gagasan-jung-dan-adler-tentang-berdamai-dengan-diri-sendiri"
+      },
+      {
+        "id": 7,
+        "title": "Kita Semua Butuh Resiliensi untuk Bisa Bangkit dari Keterpurukan",
+        "image": "https://images.squarespace-cdn.com/content/v1/600bbfebf983552f0a54b390/1615636131023-C7CCIK5ZGHN4MT36RASC/unsplash-image-DGdqJdjq7pA.jpg",
+        "author": "Wahyu Wiratmoko",
+        "date": "20 Februari 2021",
+        "source": "https://pijarpsikologi.org/blog/kita-semua-butuh-resiliensi-untuk-bisa-bangkit-dari-keterpurukan"
+      },
+      {
+        "id": 8,
+        "title": "Self-Reflecting: Apa Kamu Berubah?",
+        "image": "https://talknow.id/wp-content/uploads/2021/01/macroblogfix.jpg",
+        "author": "Annisa Wicaksono",
+        "date": "26 Juni 2021",
+        "source": "https://talknow.id/self-reflecting-apa-kamu-berubah/"
+      },
+      {
+        "id": 9,
+        "title": "Coping With Failure",
+        "image": "https://talknow.id/wp-content/uploads/2021/07/macroblog_7_july.jpg",
+        "author": "Annisa Wicaksono",
+        "date": "8 Juli 2021",
+        "source": "https://talknow.id/coping-with-failure/"
+      },
+      {
+        "id": 10,
+        "title": "Personal SWOT Analysis? Apa Tuh?",
+        "image": "https://talknow.id/wp-content/uploads/2021/09/macroblog_sept_27.jpg",
+        "author": "Annisa Wicaksono",
+        "date": "27 September 2021",
+        "source": "https://talknow.id/personal-swot-analysis-apa-tuh/"
+      },
+      {
+        "id": 11,
+        "title": "Waspada Burnout, Stress Berkepanjangan di Kehidupan Sehari-Hari",
+        "image": "https://api.ibunda.id/images/_Waspada_Burnout_Stress_Berkepanjangan_di_Kehidupan_SehariHari.png",
+        "author": "Athiya Nur Azzahra Irmayanti",
+        "date": "4 September 2021",
+        "source": "https://www.ibunda.id/kata-bunda/-Waspada-Burnout-Stress-Berkepanjangan-di-Kehidupan-SehariHari"
+      },
+      {
+        "id": 12,
+        "title": "Inner Child Terluka, Apa Saja Tandanya?",
+        "image": "https://api.ibunda.id/images/Inner_Child_Terluka_Apa_Saja_Tandanya.png",
+        "author": "Najla Assyifa Asayanda Gunawan",
+        "date": "7 November 2020",
+        "source": "https://www.ibunda.id/kata-bunda/Inner-Child-Terluka-Apa-Saja-Tandanya"
       }
     ]
   }
